@@ -1,7 +1,7 @@
 ## Benvenid@! 👋 
 #### Soy José Osorio
 👨‍💻 **Fullstack Developer**&nbsp;&nbsp; • &nbsp;&nbsp;✏️ **TVET Teacher**  
-🕷️ **Weaving Web Bits**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;🚀 **Modo Kaizen: ON**
+🕷️ **Weaving Web Bits**&nbsp;&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;🚀 **Modo Kaizen: ON**
 
 Desarrollador fullstack y profesor de estado ETP. Siempre en busca de nuevos aprendizajes y compartir conocimientos con la comunidad.
 #### Contacto  
