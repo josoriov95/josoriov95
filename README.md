@@ -3,7 +3,7 @@
 👨‍💻 **Fullstack Developer**&nbsp;&nbsp; • &nbsp;&nbsp;✏️ **TVET Teacher**  
 🕷️ **Weaving Web Bits**&nbsp;&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;🚀 **Modo Kaizen: Success 404**
 
-Desarrollador fullstack y profesor de estado ETP. Siempre en busca de nuevos aprendizajes y compartir conocimientos con la comunidad.
+Desarrollador fullstack y profesor de estado en ETP. Siempre en busca de nuevos aprendizajes y compartir conocimientos con la comunidad.
 #### Contacto  
 💌 josoriovaldes95@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/josoriov95)
