@@ -4,7 +4,6 @@
 🕷️ **Weaving Web Bits**&nbsp;&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;🚀 **Modo Kaizen: Success 404**
 
 Desarrollador fullstack y profesor de estado en ETP. Siempre en busca de nuevos aprendizajes y compartir conocimientos con la comunidad.
-#### Redes  
 
 🖊️ [CodePen](https://codepen.io/josoriov95)
 
