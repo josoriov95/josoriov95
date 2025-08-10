@@ -7,8 +7,6 @@ Desarrollador fullstack y profesor de estado en ETP. Siempre en busca de nuevos 
 
 🖊️ [CodePen](https://codepen.io/josoriov95)
 
-🌐 [Github Page](https://josoriov95.github.io)
-
 🔗 [LinkedIn](https://linkedin.com/in/josoriov95)
 
 💌 [josoriovaldes95@gmail.com](mailto:josorovaldes95@gmail.com)
